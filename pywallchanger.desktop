@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1
+Encoding=UTF-8
+Name=pyWallChanger
+Comment=Cambia automaticamente tu fondo de escritorio
+Terminal=false
+Type=Application
+Categories=Utility;DesktopSettings;Amusement;GTK
+Exec=pywallchanger
+Icon=pywallchanger
+Name[es_ES]=pyWallChanger
